@@ -5,3 +5,67 @@ body {
   line-height: 24px;
   background-color: #FDFDFF;
 }
+
+.site-navigation-item a,
+.blog-article time,
+.main-footer h2 {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.site-navigation-item a {
+  color: #163152;
+  text-decoration: none;
+}
+
+.hero h1 {
+  font-size: 44px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 60px;
+}
+
+.blog-article h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.underline-text {
+  text-decoration: underline;
+  text-decoration-color: #00C6BD;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 15px;
+  text-underline-position: under;
+}
+
+.contacts-items {
+  line-height: 22px;
+}
+
+.contact-item a {
+  color: #163152;
+  text-decoration: none;
+}
+
+.contact-item address {
+  font-style: normal;
+}
+
+.main-footer ul a {
+  color: #163152;
+  font-size: 14px;
+  line-height: 16px;
+  text-decoration: none;
+}
+
+.policy,
+.copyright {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.policy a {
+  color: #163152;
+  text-decoration: none;
+}
